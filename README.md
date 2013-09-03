@@ -11,7 +11,7 @@ Based on https://github.com/macdonst/VideoPlayer
 * Add the following lines to res/xml/config.xml:
 
         <feature name="VideoPlugin">
-            <param name="android-package" value="com.phonegap.plugins.video.VideoPlayer" />
+            <param name="android-package" value="com.phonegap.plugins.video.VideoPlugin" />
         </feature>
 
 * Done!
