@@ -1,7 +1,10 @@
 VideoPlayer
 ===========
 
-Phonegap android video player native plugin
+Phonegap android video player native plugin.
+Tested on phonegap 2.9.
+
+Based on https://github.com/macdonst/VideoPlayer
 
 * Copy the java file to src/com/phonegap/plugins/video
 * Copy the javascript file to www/js/VideoPlugin.js
