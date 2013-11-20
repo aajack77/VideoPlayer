@@ -14,6 +14,10 @@ Based on https://github.com/macdonst/VideoPlayer
             <param name="android-package" value="com.phonegap.plugins.video.VideoPlugin" />
         </feature>
 
+* Add the script to your html `<head>` like so:
+
+        <script src="js/VideoPlugin.js"></script>
+
 * Done!
 
 
